@@ -1,0 +1,96 @@
+{
+  "config": {
+    "timeZone": "Asia/Bangkok",
+    "workingHours": [
+      {
+        "day": "Monday",
+        "start": "09:00",
+        "end": "11:00"
+      },
+      {
+        "day": "Tuesday",
+        "start": "08:00",
+        "end": "11:00"
+      },
+      {
+        "day": "Wednesday",
+        "start": "09:00",
+        "end": "11:00"
+      },
+      {
+        "day": "Thursday",
+        "start": "10:00",
+        "end": "15:00"
+      },
+      {
+        "day": "Thursday",
+        "start": "16:00",
+        "end": "17:00"
+      },
+      {
+        "day": "Friday",
+        "start": "08:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Friday",
+        "start": "14:00",
+        "end": "16:00"
+      },
+      {
+        "day": "Saturday",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Sunday",
+        "start": "07:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Sunday",
+        "start": "13:00",
+        "end": "15:00"
+      },
+      {
+        "day": "Saturday",
+        "start": "11:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Tuesday",
+        "start": "12:00",
+        "end": "16:00"
+      },
+      {
+        "day": "Wednesday",
+        "start": "12:00",
+        "end": "17:00"
+      },
+      {
+        "day": "Monday",
+        "start": "12:00",
+        "end": "17:00"
+      }
+    ]
+  },
+  "users": [
+    {
+      "id": "779cc6e8-b1d7-490a-bb9a-64d5fa1dd87f"
+    },
+    {
+      "id": "43c9633b-86dd-406e-9e42-8ee52f35214b"
+    },
+    {
+      "id": "80e3cf2b-4d55-4bbd-9eab-79158ab5c19f"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "kPa8WGj",
+      "userId": "779cc6e8-b1d7-490a-bb9a-64d5fa1dd87f",
+      "start": "2022-01-14T08:00:00.000Z",
+      "end": "2022-01-14T09:00:00.000Z"
+    }
+  ]
+}
